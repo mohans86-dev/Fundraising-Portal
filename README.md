@@ -13,8 +13,8 @@ A simple Flutter app UI simulating a Fundraising Intern Portal. Built with mock 
 🪄 Smooth UI with cards, navigation drawer, and horizontal scroll
 
 ## Getting Started
-git clone https://github.com/your-username/fundraising-intern-portal.git
-cd fundraising-intern-portal
-flutter pub get
+git clone https://github.com/your-username/fundraising-intern-portal.git <br>
+cd fundraising-intern-portal <br>
+flutter pub get <br>
 flutter run
 
