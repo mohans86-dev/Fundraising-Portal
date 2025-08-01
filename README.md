@@ -1,4 +1,4 @@
-### 🧑‍💻 Fundraising Intern Portal - Flutter App
+# 🧑‍💻 Fundraising Intern Portal - Flutter App
 A simple Flutter app UI simulating a Fundraising Intern Portal. Built with mock data and clean design — perfect for prototyping or as a beginner project. No backend or database required.
 
 ## ✨ Features
